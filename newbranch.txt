@@ -1,1 +1,6 @@
-my new file:wq
+
+:y new file:wq
+
+
+myrgfkgnflgnslf name is kumar
+>>>>>>> branch1
