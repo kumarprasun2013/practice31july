@@ -1,6 +1,10 @@
 
-:y new file:wq
+
 
 
 myrgfkgnflgnslf name is kumar
->>>>>>> branch1
+
+
+
+function2()
+
